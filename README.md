@@ -11,5 +11,5 @@ I'm a **QA Automation Engineer** and **Ethical Hacker** with a passion for appli
 - **Manual Testing**: Designing and executing manual test cases.
 
 ## 📫 Let's Connect
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/miguelalejandrosouto/))
+- [LinkedIn](https://www.linkedin.com/in/miguelalejandrosouto/)
 - [Email](mailto:miguelalesouto@gmail.com)
