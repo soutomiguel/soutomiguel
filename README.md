@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello! 👋 I'm Miguel Souto
 
-<!--
-**soutomiguel/soutomiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **QA Automation Engineer** specializing in end-to-end testing automation using Selenium, POM, and DRY principles with Python.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Work With
+- Selenium
+- Python
+- Page Object Model (POM)
+- DRY (Don't Repeat Yourself)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- New automated testing tools
+- Docker and CI/CD
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Email](mailto:youremail@example.com)
