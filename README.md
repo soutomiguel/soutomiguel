@@ -5,7 +5,7 @@ I'm a **QA Automation Engineer** and **Ethical Hacker** with a passion for appli
 ## 🔧 Skills
 - **Automation Frameworks**: Building and maintaining test automation frameworks.
 - **Selenium & Cypress**: Automating web applications and mobile.
-- **API Testing**: Validating APIs using tools like Postman and python scripts.
+- **API Testing**: Validating APIs using tools like Postman and Python scripts.
 - **SQL**: Database validation and queries.
 - **Linux**: Scripting and automation in Linux environments.
 - **Manual Testing**: Designing and executing manual test cases.
