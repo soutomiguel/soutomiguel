@@ -3,7 +3,7 @@
 I'm a **QA Automation Engineer** and **Ethical Hacker** with a passion for application security. 
 ---
 
-### Frameworks & Tools:
+### Automation Frameworks & Tools:
 - **Selenium**
 - **Cypress**
 
@@ -19,7 +19,3 @@ I'm a **QA Automation Engineer** and **Ethical Hacker** with a passion for appli
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6F00?style=for-the-badge&logo=PortSwigger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/miguelalejandrosouto/)
-- [Email](mailto:miguelalesouto@gmail.com)
