@@ -4,8 +4,8 @@ I'm a **QA Automation Engineer** and **Ethical Hacker** with a passion for appli
 ---
 
 ### Automation Frameworks & Tools:
-- **Selenium**
-- **Cypress**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
