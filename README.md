@@ -1,7 +1,6 @@
 # Hello! 👋 I'm Miguel Souto
 
-I'm a **QA Automation Engineer** and **Ethical Hacker** with a passion for application security. I specialize in creating robust test automation frameworks using **Selenium** and **Python**.
-
+I'm a **QA Automation Engineer** and **Ethical Hacker** with a passion for application security. 
 ---
 
 ### Frameworks & Tools:
