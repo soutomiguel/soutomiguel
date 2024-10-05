@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Miguel Souto
 
-I'm a **Test Automation Engineer** and **Ethical Hacker**.
+I'm a Test Automation Engineer and Ethical Hacker.
 
 ### Automation Frameworks & Tools:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
